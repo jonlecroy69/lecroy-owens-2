@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lecroy-owens.com/sitemap.xml
+
+# LeCroy & Owens Handyman & Remodeling Co.
+# Spartanburg, SC - Upstate South Carolina
