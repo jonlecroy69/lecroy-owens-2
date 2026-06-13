@@ -225,30 +225,22 @@ export const WORK_PHOTOS: WorkPhoto[] = [
     ],
   },
   {
-    category: "Flooring",
-    caption: "Speckled epoxy garage floor coating — durable, easy-clean finish",
+    category: "Remodeling",
+    caption: "Reclaimed wood barn door closet system and matching headboard",
     images: [
       {
         src: "/images/work/flooring-garage-speckled.jpg",
-        caption: "Speckled epoxy garage floor coating — durable, easy-clean finish",
+        caption: "Reclaimed wood barn door closet system and matching headboard",
       },
     ],
   },
   {
-    category: "Bathroom Remodeling",
-    caption: "Custom green marble walk-in shower with rain head and recessed niche",
+    category: "Remodeling",
+    caption: "Rustic reclaimed wood bed frame with clean white bedding",
     images: [
       {
         src: "/images/work/bathroom-green-marble-shower.jpg",
-        caption: "Custom green marble walk-in shower with rain head and recessed niche",
-      },
-      {
-        src: "/images/work/bathroom-remodel-2.jpg",
-        caption: "Bathroom shower and tile remodel with updated wall and floor finishes",
-      },
-      {
-        src: "/images/work/bathroom-remodel-3.jpg",
-        caption: "Close-up of finished shower tile installation",
+        caption: "Rustic reclaimed wood bed frame with clean white bedding",
       },
     ],
   },
@@ -267,22 +259,30 @@ export const WORK_PHOTOS: WorkPhoto[] = [
     ],
   },
   {
-    category: "Remodeling",
-    caption: "Rustic reclaimed wood bed frame with clean white bedding",
+    category: "Bathroom Remodeling",
+    caption: "Custom green marble walk-in shower with rain head and recessed niche",
     images: [
       {
         src: "/images/work/bedroom-rustic-wood-bed.jpg",
-        caption: "Rustic reclaimed wood bed frame with clean white bedding",
+        caption: "Custom green marble walk-in shower with rain head and recessed niche",
+      },
+      {
+        src: "/images/work/bathroom-remodel-2.jpg",
+        caption: "Bathroom shower and tile remodel with updated wall and floor finishes",
+      },
+      {
+        src: "/images/work/bathroom-remodel-3.jpg",
+        caption: "Close-up of finished shower tile installation",
       },
     ],
   },
   {
-    category: "Remodeling",
-    caption: "Reclaimed wood barn door closet system and matching headboard",
+    category: "Flooring",
+    caption: "Speckled epoxy garage floor coating — durable, easy-clean finish",
     images: [
       {
         src: "/images/work/bedroom-barn-doors-reclaimed.jpg",
-        caption: "Reclaimed wood barn door closet system and matching headboard",
+        caption: "Speckled epoxy garage floor coating — durable, easy-clean finish",
       },
     ],
   },
