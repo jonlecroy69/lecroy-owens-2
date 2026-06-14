@@ -39,8 +39,9 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: BUSINESS.name }],
   icons: {
-    icon: "/images/logo.png",
-    apple: "/images/logo.png",
+    icon: "/favicon.png",
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
   },
   openGraph: {
     title: `${BUSINESS.name} | Local Handyman & Remodeling Experts`,
